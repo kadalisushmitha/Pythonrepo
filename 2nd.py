@@ -16,5 +16,7 @@ class Employee:
 
 
 emp1 = Employee("Zara", 2000)
+emp2 = Employee("Jara", 3000)
 emp1.displayEmployee() 
-emp1.displayEmployee()     
+emp2.displayEmployee()  
+emp1.displayCount()
